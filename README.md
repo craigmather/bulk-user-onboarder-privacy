@@ -1,2 +1,1 @@
-# bulk-user-onboarder-privacy
-Bulk user onboarder privacy policy
+Privacy policy hosting for Chrome extension
